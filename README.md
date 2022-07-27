@@ -1,4 +1,10 @@
-# Kocaeli Üniversitesi - Web Pages
+# Kocaeli Üniversitesi - Web Pages 
+
+## Architecture
+
+![Architecture](./images/architecture.png)
+
+## Descriptions
 
 * Kocaeli University Project is a set of modular systems that allow the web pages of all departments and departments of the university’s faculties
 to be managed through a single API.
@@ -10,6 +16,10 @@ to be managed through a single API.
 * Projects were hosted on VDS during development.
 * Developed in accordance with Devops and CI/CD processes.
 * Github and Git Version Control system were used. Releases were managed using Semantic versioning.
+
+## Database UML
+
+![Database UML](./images/database-uml.png)
 
 ## Sample Website
 
