@@ -23,7 +23,7 @@ to be managed through a single API.
 
 ## Sample Website
 
-You can view the sample website by following the link (http://kocaeliuniversity.tk/).
+You can view the sample website by following the link (http://mezun.kocaeli.edu.tr/).
 
 ## Project Code Examples
 
